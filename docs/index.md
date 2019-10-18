@@ -18,6 +18,18 @@ TODO: Describe the lineage of the YM2612, the OPN family, and the successors.
 
 TODO: List all known hardware that uses the YM2612
 
+Commercial:
+- The Sega [Mega Drive/Genesis](https://en.wikipedia.org/wiki/Sega_Mega_Drive)
+
+Open-source:
+- TODO
+
+## Software implementations
+
+TODO: List software implementations, including emulators and VSTs.
+
+- [Nuked-OPN2](https://github.com/nukeykt/Nuked-OPN2) is a cycle-accurate C implementation of the YM3638
+
 ## Overview
 
 TODO: Describe the basic operating principles of the YM2612: How it produces sounds, how many voices, how many operators, additional features, etc. Linking down into deeper sections as needed.
